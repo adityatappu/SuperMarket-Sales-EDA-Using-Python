@@ -21,7 +21,7 @@ Sales performance is the backbone of a supermarket’s success. Understanding ke
 
 ## 📊 Jupyter Notebook
 
-Click To Explore The Jupyter Notebook [Here](https://onedrive.live.com/personal/b8ea7aa79bec652d/_layouts/15/Doc.aspx?sourcedoc=%7B6593ec96-e365-40b8-9d3c-0352132de0d7%7D\&action=default\&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9iOGVhN2FhNzliZWM2NTJkL0VaYnNrMlZsNDdoQW5Ud0RVaE10NE5jQk9IREdCM3lnckxIb19GWGwwQ2RFMlE\&slrid=27f882a1-4093-8000-115d-7d71b8fc54b9\&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9iOGVhN2FhNzliZWM2NTJkL0VaYnNrMlZsNDdoQW5Ud0RVaE10NE5jQk9IREdCM3lnckxIb19GWGwwQ2RFMlE_cnRpbWU9WmZjTDNMOVEzVWc\&CID=3b48c341-3ea0-49a9-83e7-5afb4c00fba3&_SRM=0\:G:40) 
+Click To Explore The Jupyter Notebook [Here](https://github.com/aditya-da-3/SuperMarket-Sales-EDA-Using-Python/blob/main/Jupyter%20Notebook/Supermarket%20Sales%20EDA.ipynb) 
 
 ## Objectives
 - Identify peak sales periods and trends
