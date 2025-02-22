@@ -12,7 +12,7 @@ Sales performance is the backbone of a supermarket’s success. Understanding ke
 <p align="center">
   <a href="https://youtu.be/K8udR_K9X6E?si=QMfmZ4QAwcSzl9ok" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Goodcabs%20Youtube%20Thumbnail.png" 
+      src="https://github.com/aditya-da-3/SuperMarket-Sales-EDA-Using-Python/blob/main/Presentation/Super%20Market%20Sales%20EDA%20Python%20Thumbnail.png" 
       alt="Presentation Preview" 
       style="width: 70%; max-width: 360px;"
     >
