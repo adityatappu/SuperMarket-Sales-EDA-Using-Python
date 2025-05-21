@@ -8,17 +8,6 @@ Sales performance is the backbone of a supermarket’s success. Understanding ke
 - Analysis methodologies using Python (Pandas, Matplotlib, Seaborn)
 - Insights and data-driven recommendations for improving sales and customer experience
 
-## Project Presentation(Video)
-<p align="center">
-  <a href="" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://github.com/aditya-da-3/SuperMarket-Sales-EDA-Using-Python/blob/main/Presentation/Super%20Market%20Sales%20EDA%20Python%20Thumbnail.png" 
-      alt="Presentation Preview" 
-      style="width: 70%; max-width: 360px;"
-    >
-  </a>
-</p>
-
 ## 📊 Jupyter Notebook
 
 Click To Explore The Jupyter Notebook [Here](https://github.com/aditya-da-3/SuperMarket-Sales-EDA-Using-Python/blob/main/Jupyter%20Notebook/Supermarket%20Sales%20EDA.ipynb) 
